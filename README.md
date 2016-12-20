@@ -1,4 +1,4 @@
-# Long-term_time_series_Consumer_Price_Index
+# long-term_time_series_consumer_price_index
 　【和歌山県　長期時系列　消費者物価指数です。】
 ◆消費者物価指数とは
 統計局ホームページ内の消費者物価指数（ＣＰＩ）を参照してください。 
